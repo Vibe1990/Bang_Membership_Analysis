@@ -1,4 +1,4 @@
-# Membership_Analysis_For_Downtown_Gym_Pre_and_Post_COVID
+# Membership Analysis of A Downtown Toronto Gym Pre and Post COVID Shutdown
 A data project looking at the analyzing patterns and trends in membership at a boutique personal training studio 
 
 

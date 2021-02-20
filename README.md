@@ -11,5 +11,3 @@ A look at the membership history of past and current clients from a boutique tra
     
    * Membership status at 3-months, 6-months and 12-months (via random forest and logistic regression)
    * Length of membership (via Cox-regression)
-
-[pwc](https://www.pwc.com/us/en/advisory-services/publications/consumer-intelligence-series/pwc-consumer-intelligence-series-customer-experience.pdf#page=8)

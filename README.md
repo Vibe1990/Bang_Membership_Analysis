@@ -25,6 +25,7 @@ However, with the surplus of boutique fitness space in downtown Toronto, along w
 * Attendance rates of less than 70% appears to be the cut-off point for a significant decreased odds of membership retention
 * COVID pandemic significantly reduced clientele by 31% 
 * Just having at least one single CX-related email interaction increased odds of membership retention across all 3 milestone points. However, any more than this doesn't appear to have as significant of an effect. 
+* Random Forest model accuracy for retention status at 3-months is ~ 91%, 6-months is ~ 90% and 12-months is ~ 90%. 
 
 ## Data Description 
 
